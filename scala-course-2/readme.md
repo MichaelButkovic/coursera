@@ -1,3 +1,3 @@
 Functional Program Design in Scala
 
-Week 1 - example
+-Week 1 - example
